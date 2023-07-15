@@ -1,10 +1,12 @@
 ## Hi I'm Patrick, Future web devoper.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<style>
+ class Patrick:
+  info.aboutme = {
+            "email": ["PatrickZablocki@gxm.de"],
+            "personal info": ["Patrick", "Zablocki", "26", "Male"],
+            "location": ["Germany", "NRW (Düsseldorf)"],
+    }
 
-<!---
-PatrickZablocki/PatrickZablocki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+  
+</style>
