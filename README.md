@@ -1,7 +1,7 @@
 # Patrick Zablocki
 
 **`Web-Devoloper`**
-## Welcome to my Github I'm Patrick Zablocki , 26 years old I'm from Düsseldorf and I'm a future web developer.
+## Welcome to my Github I'm Patrick Zablocki ,<br>26 years old I'm from Düsseldorf and I'm a future web developer.
 
 ### I work with
 <p align="left">
