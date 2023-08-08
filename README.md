@@ -53,4 +53,5 @@ src=https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d614
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickZablocki&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickZablocki&theme=midnight-purple)
+
