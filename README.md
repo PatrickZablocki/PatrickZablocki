@@ -63,6 +63,5 @@ src=https://camo.githubusercontent.com/587d0f411b348ee05a53c7685b59142e0705ff8d0
 
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickZablocki&theme=midnight-purple)
 
