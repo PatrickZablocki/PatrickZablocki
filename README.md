@@ -8,27 +8,27 @@ I'm passionate about web development and constantly exploring new technologies a
 
 ## Work Tools
 
-- ![Bootstrap](GitHub/Bootstrap.png)
-- ![CSS](GitHub/CSS.png)
-- ![Git](GitHub/Git.png)
-- ![GitHub](GitHub/GitHub.png)
-- ![Google Meet](GitHub/Google_Meet.png)
-- ![HTML](GitHub/HTML.png)
-- ![JavaScript](GitHub/JS.svg)
-- ![LinkedIn](GitHub/LinkedIn.webp)
-- ![Linux](GitHub/Linux.png)
-- ![Node.js](GitHub/Node.js.png)
-- ![React](GitHub/React.png)
-- ![SASS](GitHub/SASS.png)
-- ![Slack](GitHub/Slack.png)
-- ![Tailwind CSS](GitHub/Tailwind.png)
-- ![Trello](GitHub/Trello.jpg)
-- ![TypeScript](GitHub/Typescript.png)
-- ![Zoom](GitHub/Zoom.png)
+- ![Bootstrap](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Bootstrap.png)
+- ![CSS](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/CSS.png)
+- ![Git](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Git.png)
+- ![GitHub](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/GitHub.png)
+- ![Google Meet](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Google_Meet.png)
+- ![HTML](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/HTML.png)
+- ![JavaScript](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/JS.svg)
+- ![LinkedIn](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/LinkedIn.webp)
+- ![Linux](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Linux.png)
+- ![Node.js](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Node.js.png)
+- ![React](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/React.png)
+- ![SASS](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/SASS.png)
+- ![Slack](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Slack.png)
+- ![Tailwind CSS](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Tailwind.png)
+- ![Trello](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Trello.jpg)
+- ![TypeScript](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Typescript.png)
+- ![Zoom](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Zoom.png)
 
 ## Tools I Use
 
-- ![GitHub](GitHub/GitHub.png)
+- ![GitHub](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/GitHub.png)
 
 ## Social
 
