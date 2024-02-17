@@ -28,13 +28,14 @@ I'm passionate about web development and constantly exploring new technologies a
 ## Tools I Use
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="GitHub" width="100" height="100" style="object-fit: cover;">
-  <img src="https://seeklogo.com/images/Z/zoom-fondo-blanco-vertical-logo-F819E1C283-seeklogo.com.png" alt="Zoom" width="100" height="100" style="object-fit: cover;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" width="100" height="100" style="object-fit: cover;">
-  <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-Logo-2011.png" alt="Trello" width="100" height="100" style="object-fit: cover;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="100" height="100" style="object-fit: cover;">
-  <img src="https://download.logo.wine/logo/Google_Meet/Google_Meet-Logo.wine.png" alt="Google Meet" width="100" height="100" style="object-fit: cover;">
-  <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Linux" width="100" height="100" style="object-fit: cover;">
+  <img src="https://camo.githubusercontent.com/a3e65c4a887a1abb4fdb1cf11771df9db7ea20f3d5aa683c51999899613bb8a5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" alt="GitHub" width="100" height="100";">
+  <img src="https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974" alt="Git" width="100" height="100";">
+  <img src="https://camo.githubusercontent.com/9c08c5270a54c499c16c5b6c890bab665514c7165193003d5c12decf06f058d9/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d64" alt="MD" width="100" height="100";">
+  <img src="https://seeklogo.com/images/Z/zoom-fondo-blanco-vertical-logo-F819E1C283-seeklogo.com.png" alt="Zoom" width="100" height="100";">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" width="100" height="100";">
+  <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-Logo-2011.png" alt="Trello" width="100" height="100";">
+  <img src="https://download.logo.wine/logo/Google_Meet/Google_Meet-Logo.wine.png" alt="Google Meet" width="100" height="100";">
+  <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Linux" width="100" height="100";">
 </div>
 
 
