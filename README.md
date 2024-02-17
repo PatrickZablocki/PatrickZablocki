@@ -8,33 +8,32 @@ I'm passionate about web development and constantly exploring new technologies a
 
 ## Work Tools
 
-- ![Bootstrap](GitHub/Bootstrap.png)
-- ![CSS](GitHub/CSS.png)
-- ![HTML](GitHub/HTML.png)
-- ![JavaScript](GitHub/JS.svg)
-- ![Node.js](GitHub/Node.js.png)
-- ![React](GitHub/React.png)
-- ![SASS](GitHub/SASS.png)
-- ![Tailwind CSS](GitHub/Tailwind.png)
-- ![TypeScript](GitHub/Typescript.png)
-
+- Bootstrap ![Bootstrap](GitHub/Bootstrap.png)
+- CSS ![CSS](GitHub/CSS.png)
+- HTML ![HTML](GitHub/HTML.png)
+- JavaScript ![JavaScript](GitHub/JS.svg)
+- Node.js ![Node.js](GitHub/Node.js.png)
+- React ![React](GitHub/React.png)
+- SASS ![SASS](GitHub/SASS.png)
+- Tailwind CSS ![Tailwind CSS](GitHub/Tailwind.png)
+- TypeScript ![TypeScript](GitHub/Typescript.png)
 
 ## Tools I Use
 
-- ![GitHub](GitHub/GitHub.png)
-- ![Zoom](GitHub/Zoom.png)
-- ![Slack](GitHub/Slack.png)
-- ![Trello](GitHub/Trello.jpg)
-- ![Git](GitHub/Git.png)
-- ![Google Meet](GitHub/Google_Meet.png)
-- ![Linux](GitHub/Linux.png)
+- GitHub ![GitHub](GitHub/GitHub.png)
+- Zoom ![Zoom](GitHub/Zoom.png)
+- Slack ![Slack](GitHub/Slack.png)
+- Trello ![Trello](GitHub/Trello.jpg)
+- Git ![Git](GitHub/Git.png)
+- Google Meet ![Google Meet](GitHub/Google_Meet.png)
+- Linux ![Linux](GitHub/Linux.png)
 
 ## Social
 
 Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/patrickzablocki/)
-- [GitHub](https://github.com/patrickzablocki)
+- LinkedIn ![LinkedIn](GitHub/LinkedIn.webp)
+- GitHub ![GitHub](GitHub/GitHub.png)
 
 Feel free to reach out if you have any questions or just want to connect! 🚀
 
