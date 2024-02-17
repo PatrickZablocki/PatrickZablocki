@@ -10,7 +10,7 @@ I'm passionate about web development and constantly exploring new technologies a
 
 - Bootstrap ![Bootstrap](GitHub/Bootstrap.png)
 - CSS ![CSS](GitHub/CSS.png)
-- HTML ![HTML](GitHub/HTML.png)
+- HTML ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)
 - JavaScript ![JavaScript](GitHub/JS.svg)
 - Node.js ![Node.js](GitHub/Node.js.png)
 - React ![React](GitHub/React.png)
