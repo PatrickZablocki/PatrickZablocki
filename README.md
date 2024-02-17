@@ -8,34 +8,32 @@ I'm passionate about web development and constantly exploring new technologies a
 
 ## Work Tools
 
-- ![Bootstrap](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Bootstrap.png)
-- ![CSS](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/CSS.png)
-- ![Git](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Git.png)
-- ![GitHub](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/GitHub.png)
-- ![Google Meet](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Google_Meet.png)
-- ![HTML](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/HTML.png)
-- ![JavaScript](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/JS.svg)
-- ![LinkedIn](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/LinkedIn.webp)
-- ![Linux](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Linux.png)
-- ![Node.js](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Node.js.png)
-- ![React](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/React.png)
-- ![SASS](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/SASS.png)
-- ![Slack](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Slack.png)
-- ![Tailwind CSS](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Tailwind.png)
-- ![Trello](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Trello.jpg)
-- ![TypeScript](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Typescript.png)
-- ![Zoom](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/Zoom.png)
+- ![Bootstrap](GitHub/Bootstrap.png)
+- ![CSS](GitHub/CSS.png)
+- ![HTML](GitHub/HTML.png)
+- ![JavaScript](GitHub/JS.svg)
+- ![Node.js](GitHub/Node.js.png)
+- ![React](GitHub/React.png)
+- ![SASS](GitHub/SASS.png)
+- ![Tailwind CSS](GitHub/Tailwind.png)
+- ![TypeScript](GitHub/Typescript.png)
+
 
 ## Tools I Use
 
-- ![GitHub](https://raw.githubusercontent.com/dein-benutzername/GitHub/main/GitHub.png)
+- ![GitHub](GitHub/GitHub.png)
+- ![Zoom](GitHub/Zoom.png)
+- ![Slack](GitHub/Slack.png)
+- ![Trello](GitHub/Trello.jpg)
+- ![Git](GitHub/Git.png)
+- ![Google Meet](GitHub/Google_Meet.png)
+- ![Linux](GitHub/Linux.png)
 
 ## Social
 
 Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/patrickzablocki/)
-- [Twitter](https://twitter.com/patrickzablocki)
 - [GitHub](https://github.com/patrickzablocki)
 
 Feel free to reach out if you have any questions or just want to connect! 🚀
