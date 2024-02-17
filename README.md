@@ -14,7 +14,7 @@ I'm passionate about web development and constantly exploring new technologies a
   <img src="https://i0.wp.com/www.duomimikry.de/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1" alt="JavaScript" width="200" height="200">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="200" height="200">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SASS" width="200" height="200">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="200" height="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="200" height="200" object-fit="cover">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="React" width="200" height="200">
 </div>
 
