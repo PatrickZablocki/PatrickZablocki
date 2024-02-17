@@ -21,8 +21,8 @@ I'm passionate about web development and constantly exploring new technologies a
 ## CSS Framework
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap" width="100" height="100" style="object-fit: cover;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="100" height="100" style="object-fit: cover;">
+  <img src="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" alt="Bootstrap" width="100" height="100";">
+  <img src="https://camo.githubusercontent.com/90821127892b2ab8fed54a30b62e3875250c25b0ff2b0466eade956773d27126/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" alt="Tailwind CSS" width="100" height="100";">
 </div>
 
 ## Tools I Use
