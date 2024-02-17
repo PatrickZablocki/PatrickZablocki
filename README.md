@@ -8,27 +8,27 @@ I'm passionate about web development and constantly exploring new technologies a
 
 ## Work Tools
 
-- ![Bootstrap](images/Bootstrap.png)
-- ![CSS](images/CSS.png)
-- ![Git](images/Git.png)
-- ![GitHub](images/GitHub.png)
-- ![Google Meet](images/Google_Meet.png)
-- ![HTML](images/HTML.png)
-- ![JavaScript](images/JS.svg)
-- ![LinkedIn](images/LinkedIn.webp)
-- ![Linux](images/Linux.png)
-- ![Node.js](images/Node.js.png)
-- ![React](images/React.png)
-- ![SASS](images/SASS.png)
-- ![Slack](images/Slack.png)
-- ![Tailwind CSS](images/Tailwind.png)
-- ![Trello](images/Trello.jpg)
-- ![TypeScript](images/Typescript.png)
-- ![Zoom](images/Zoom.png)
+- ![Bootstrap](GitHub/Bootstrap.png)
+- ![CSS](GitHub/CSS.png)
+- ![Git](GitHub/Git.png)
+- ![GitHub](GitHub/GitHub.png)
+- ![Google Meet](GitHub/Google_Meet.png)
+- ![HTML](GitHub/HTML.png)
+- ![JavaScript](GitHub/JS.svg)
+- ![LinkedIn](GitHub/LinkedIn.webp)
+- ![Linux](GitHub/Linux.png)
+- ![Node.js](GitHub/Node.js.png)
+- ![React](GitHub/React.png)
+- ![SASS](GitHub/SASS.png)
+- ![Slack](GitHub/Slack.png)
+- ![Tailwind CSS](GitHub/Tailwind.png)
+- ![Trello](GitHub/Trello.jpg)
+- ![TypeScript](GitHub/Typescript.png)
+- ![Zoom](GitHub/Zoom.png)
 
 ## Tools I Use
 
-- ![GitHub](images/GitHub.png)
+- ![GitHub](GitHub/GitHub.png)
 
 ## Social
 
