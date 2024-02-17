@@ -11,31 +11,18 @@ I'm passionate about web development and constantly exploring new technologies a
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; text-align: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/800px-CSS.3.svg.png" alt="CSS" width="200" height="200">
-    <p>CSS</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
+ 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="200" height="200">
-    <p>HTML</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
+  
     <img src="https://i0.wp.com/www.duomimikry.de/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1" alt="JavaScript" width="200" height="200">
-    <p>JavaScript</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
+    
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="200" height="200">
-    <p>TypeScript</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
+    
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SASS" width="200" height="200">
-    <p>SASS</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
+    
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="200" height="200">
-    <p>Node.js</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
+    
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="React" width="200" height="200">
-    <p>React</p>
   </div>
 </div>
 
