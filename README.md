@@ -9,13 +9,13 @@ I'm passionate about web development and constantly exploring new technologies a
 ## Work Tools
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/800px-CSS.3.svg.png" alt="CSS" width="100" height="100" style="object-fit: cover;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="100" height="100" style="object-fit: cover;">
-  <img src="https://i0.wp.com/www.duomimikry.de/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1" alt="JavaScript" width="100" height="100" style="object-fit: cover;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="100" height="100" style="object-fit: cover;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SASS" width="100" height="100" style="object-fit: cover;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="100" height="100" style="object-fit: cover;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="React" width="100" height="100" style="object-fit: cover;">
+  <img src="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" alt="CSS" width="100" height="100" style="object-fit: cover;">
+  <img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="HTML" width="100" height="100";">
+  <img src="https://camo.githubusercontent.com/83332cff730c24fb7829ea5ff814d2629572848a0881cf9a60222ef296263782/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" alt="JavaScript" width="100" height="100";">
+  <img src="https://camo.githubusercontent.com/34597c8135ed2d68f6dead5b7565c74d77946f6b199f7472661d54677c58a24a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473" alt="TypeScript" width="100" height="100";">
+  <img src="https://camo.githubusercontent.com/39a4393b0cef3c2b09b4e57ea2b8ba02b3f6af3c628943378d517d79f3f076ff/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73617373" alt="SASS" width="100" height="100";">
+  <img src="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="Node.js" width="100" height="100";">
+  <img src="https://camo.githubusercontent.com/aed5f69c00ea3fd8c8bc70b89d236efae340eb3024526fd11bcba51c80c4aa40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" alt="React" width="100" height="100";">
 </div>
 
 ## CSS Framework
