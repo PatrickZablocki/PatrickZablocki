@@ -8,7 +8,7 @@ I'm passionate about web development and constantly exploring new technologies a
 
 ## Work Tools
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
   <div style="flex: 1; text-align: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/800px-CSS.3.svg.png" alt="CSS" width="200" height="200">
     <p>CSS</p>
@@ -41,7 +41,7 @@ I'm passionate about web development and constantly exploring new technologies a
 
 ## CSS Framework
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
   <div style="flex: 1; text-align: center;">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap" width="200" height="200">
     <p>Bootstrap</p>
@@ -54,9 +54,9 @@ I'm passionate about web development and constantly exploring new technologies a
 
 ## Tools I Use
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="200" height="200">
+    <img src="https://cdn-icons-png.flaticon.com/icons2/2415/PNG/512/github_plain_wordmark_logo_icon_146553.png" alt="GitHub" width="200" height="200">
     <p>GitHub</p>
   </div>
   <div style="flex: 1; text-align: center;">
