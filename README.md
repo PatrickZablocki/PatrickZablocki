@@ -1,6 +1,6 @@
 # Patrick Zablocki - Web Developer
 
-Welcome to my GitHub! I'm Patrick Zablocki, a 26-year-old aspiring web developer from Düsseldorf, Germany.
+Welcome to my GitHub! I'm Patrick Zablocki, a 27-year-old aspiring web developer from Düsseldorf, Germany.
 
 ## About Me
 
