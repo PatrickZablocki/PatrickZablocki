@@ -5,6 +5,7 @@ Welcome to my GitHub! I'm Patrick Zablocki, a 27-year-old aspiring web developer
 ## About Me
 
 I'm passionate about web development and constantly exploring new technologies and tools to enhance my skills.
+DCI Graduate in Web Development
 
 ## Work Tools
 
