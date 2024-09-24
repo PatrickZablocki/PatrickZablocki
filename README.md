@@ -6,23 +6,10 @@ Welcome to my GitHub profile! I specialize in modern web technologies and enjoy 
 
 ## 🚀 Skills
 
-| **Frontend**                     | **Backend**                    |
-|----------------------------------|--------------------------------|
-| 🌐 HTML                          | 🟩 Node.js                     |
-| 🎨 CSS                           | 🚏 Express                     |
-| ⚡ JavaScript                    | 🍃 MongoDB                    |
-| 🔷 TypeScript                    |                                |
-
-| **CSS Frameworks**               | **Tools I Use**                |
-|----------------------------------|--------------------------------|
-| 👢 Bootstrap                      | 🐧 Linux                       |
-| 🌬️ Tailwind CSS                 | 🍎 MacBook                    |
-|                                  | 🌱 Git                         |
-|                                  | 🐙 GitHub                      |
-|                                  | 💬 Slack                       |
-|                                  | 📋 Trello                      |
-|                                  | 🎥 Zoom                        |
-|                                  | 📹 Google Meet                 |
+- **Frontend:** 🌐 HTML, 🎨 CSS, ⚡ JavaScript, 🔷 TypeScript
+- **CSS Frameworks:** 👢 Bootstrap, 🌬️ Tailwind CSS
+- **Backend:** 🟩 Node.js, 🚏 Express, 🍃 MongoDB
+- **Tools:** 🐧 Linux, 🍏 Apple, 🌱 Git, 🐙 GitHub, 💬 Slack, 📋 Trello, 🎥 Zoom, 📹 Google Meet
 
 Feel free to check out my repositories to see my latest projects! I'm always open to learning new technologies and collaborating with others. Let's build something amazing together! 🚀
 
