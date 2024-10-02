@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I specialize in modern web technologies and enjoy 
 ## 🚀 Skills
 
 - **Frontend:** 🌐 HTML, 🎨 CSS, ⚡ JavaScript, 🔷 TypeScript, ⚛️ React
-- **CSS Frameworks:** 👢 Bootstrap, 🌬️ Tailwind CSS
+- **CSS Frameworks:** 👢 Bootstrap, 🌬️ Tailwind CSS, Next.js ◾️
 - **Backend:** 🟩 Node.js, 🚏 Express, 🍃 MongoDB
 - **Tools:** 🐧 Linux, 🍏 Apple, 🌱 Git, 🐙 GitHub
 
