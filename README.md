@@ -4,19 +4,14 @@
 
 Welcome to my GitHub profile! I specialize in modern web technologies and enjoy creating responsive, efficient web applications.
 
-## 🚀 Skills
-
-- **Frontend:** 🌐 HTML, 🎨 CSS [SCSS|SASS], ⚡ JavaScript, 🔷 TypeScript, ⚛️ React
-- **CSS Frameworks:** 👢 Bootstrap, 🌬️ Tailwind CSS,
-- **Frameworks:** ◾️◾Next.js
-- **Backend:** 🟩 Node.js, 🚏 Express, 🍃 MongoDB
-- **Tools:** 🐧 Linux, 🍏 Apple, 🌱 Git, 🐙 GitHub
-
-Feel free to check out my repositories to see my latest projects! I'm always open to learning new technologies and collaborating with others. Let's build something amazing together! 🚀
-
-
-
-
+class patrick:
+  def __init__(info):
+    info.aboutme = {
+        "email": ["patrickzablocki@gmx.de"],
+        "personal info": ["Patrick", "Zablocki", "27", "Male"],
+        "portfolio": ["https://portfolio-patrickzablocki.vercel.app/"],
+        "location": ["Germany", "North Rhine-Westphalia"],
+    }
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickZablocki&theme=midnight-purple)
