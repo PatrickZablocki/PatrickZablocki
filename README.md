@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I specialize in modern web technologies and enjoy creating responsive, efficient web applications.
 
-class patrick:
+# class patrick:
   def __init__(info):
     info.aboutme = {
         "email": ["patrickzablocki@gmx.de"],
