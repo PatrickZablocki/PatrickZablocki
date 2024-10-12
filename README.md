@@ -21,6 +21,8 @@ class patrick:
   <image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <image src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <image src="https://img.shields.io/badge/SCSS-4EA94B?style=for-the-badge&logo=scss&logoColor=white">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickZablocki&theme=midnight-purple)
 
