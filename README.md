@@ -31,6 +31,19 @@
       }
   }
 </style>
+<script>
+    const text = "Hi, I'm Patrick 👋";
+    let index = 0;
+
+    function type() {
+        if (index < text.length) {
+            document.getElementById("text").innerHTML += text.charAt(index);
+            index++;
+            setTimeout(type, 100);
+        }
+    }
+    type();
+</script>
 
 - 🌱 I'm a Junior Frontend Devoloper
 
