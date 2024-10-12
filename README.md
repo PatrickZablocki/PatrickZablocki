@@ -1,5 +1,37 @@
 # Hi, I'm Patrick 👋
 
+<div class="typing-animation">
+  Hi, I'm Patrick 👋
+</div>
+
+<style>
+  .typing-animation {
+      display: inline-block;
+      border-right: 2px solid;
+      white-space: nowrap;
+      overflow: hidden;
+      animation: typing 4s steps(30, end), blink-caret 0.75s step-end infinite;
+  }
+
+  @keyframes typing {
+      from {
+          width: 0;
+      }
+      to {
+          width: 100%;
+      }
+  }
+
+  @keyframes blink-caret {
+      from, to {
+          border-color: transparent;
+      }
+      50% {
+          border-color: black;
+      }
+  }
+</style>
+
 - 🌱 I'm a Junior Frontend Devoloper
 
 ```python
