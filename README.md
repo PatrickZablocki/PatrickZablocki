@@ -1,6 +1,6 @@
 # Hi, I'm Patrick 🤙🏻
 
-- 🌱 I'm a Fullstack Devoloper
+- 🌱 I'm a Fullstack Devoloper - Freelancer
 
 ```python
 class patrick:
