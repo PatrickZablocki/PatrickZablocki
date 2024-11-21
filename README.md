@@ -9,7 +9,7 @@ class Patrick:
             "email": ["patrickzablocki@gmx.de"],
             "personal_info": ["Patrick", "Zablocki", "27", "Male"],
             "portfolio": ["https://portfolio-patrickzablocki.vercel.app/"],
-            "location": ["Germany", "North Rhine-Westphalia"],
+            "location": ["Germany", "North Rhine-Westphalia","Duesseldorf"],
             "social_media": {
                 "LinkedIn": "https://www.linkedin.com/in/patrick-zablocki-993738285/",
                 "XING": "https://www.xing.com/profile/Patrick_Zablocki028063/web_profiles",
