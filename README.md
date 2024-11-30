@@ -12,7 +12,6 @@ class Patrick:
             "location": ["Germany", "North Rhine-Westphalia","Duesseldorf"],
             "social_media": {
                 "LinkedIn": "https://www.linkedin.com/in/patrick-zablocki-993738285/",
-                "XING": "https://www.xing.com/profile/Patrick_Zablocki028063/web_profiles",
             }
         }
 ```
