@@ -8,7 +8,7 @@ class Patrick:
         self.about_me = {
             "email": ["patrickzablocki@gmx.de"],
             "personal_info": ["Patrick", "Zablocki", "27", "Male"],
-            "portfolio": ["https://portfolio-patrickzablocki.vercel.app/"],
+            "portfolio": ["https://portfolio-patrickzablocki.vercel.app"],
             "location": ["Germany", "North Rhine-Westphalia","Duesseldorf"],
             "social_media": {
                 "LinkedIn": "https://www.linkedin.com/in/patrick-zablocki-993738285/",
