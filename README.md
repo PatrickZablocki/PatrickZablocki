@@ -2,18 +2,18 @@
 
 - 🌱 I'm a Fullstack Devoloper
 
-```python
-class Patrick:
-    def __init__(self):
-        self.about_me = {
-            "email": ["patrickzablocki@gmx.de"],
-            "personal_info": ["Patrick", "Zablocki", "27", "Male"],
-            "portfolio": ["https://portfolio-patrickzablocki.vercel.app"],
-            "location": ["Germany", "North Rhine-Westphalia","Duesseldorf"],
-            "social_media": {
-                "LinkedIn": "https://www.linkedin.com/in/patrick-zablocki-993738285/",
-            }
-        }
+```JavaScript
+const aboutMe = {
+    email: ["patrickzablocki@gmx.de"],
+    personal_info: ["Patrick", "Zablocki", "27", "Male"],
+    portfolio: ["https://portfolio-patrickzablocki.vercel.app"],
+    location: ["Germany", "North Rhine-Westphalia", "Duesseldorf"],
+    social_media: {
+        LinkedIn: "https://www.linkedin.com/in/patrick-zablocki-993738285/"
+    }
+};
+
+console.log(aboutMe);
 ```
 - 💬 Feel Free to contact me
 
