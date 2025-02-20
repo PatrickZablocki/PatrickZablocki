@@ -10,10 +10,14 @@ const aboutMe = {
     location: ["Germany", "North Rhine-Westphalia", "Duesseldorf"],
     social_media: {
         LinkedIn: "https://www.linkedin.com/in/patrick-zablocki-993738285/"
+    },
+    displayInfo: function() {
+        return `Hi, I'm ${this.personal_info[0]} ${this.personal_info[1]}, a ${this.personal_info[2]}-year-old Fullstack Developer.`;
     }
 };
 
-console.log(aboutMe);
+console.log(aboutMe.displayInfo()); // Gibt eine zusammengefasste Info aus
+
 ```
 - 💬 Feel Free to contact me
 
