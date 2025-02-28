@@ -52,8 +52,8 @@ Passionate Fontend Devoloper Developer | Web Design Enthusiast
       <br>Tailwind
     </td>
     <td align="center" width="88">
-        <img src="./Images/13-redux.svg" alt="Redux" width="44" height="44"/>
-      <br>Redux
+        <img src="./Images/Bootstrap_logo.svg.png" alt="Bootstrap" width="44" height="44"/>
+      <br>Bootstrap
     </td>
       </td>
       <td align="center" width="88">
@@ -75,7 +75,31 @@ Passionate Fontend Devoloper Developer | Web Design Enthusiast
 
 
 
+### GitHub Stats:
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/PatrickZablocki/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PatrickZablocki&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=002b36" alt="Patrick Zablocki github stats" />
+</a>
+
+  </td>
+  <td>
+  <a href="https://github.com/PatrickZablocki/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickZablocki&layout=compact&theme=radical&hide_border=true&bg_color=002b36" />
+</a>
+
+  </td>
+  </tr>
+</table>
+
+<div align=center> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Fact;+I+love+fantasy+books;+Learning+new+things;+Coding+is+my+passion!" alt="Fun Fact" />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickZablocki&theme=midnight-purple)
+</div>
+<br>
 
+<div align="center">
+<a href="https://www.buymeacoffee.com/PatrickZablocki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
+</div>
