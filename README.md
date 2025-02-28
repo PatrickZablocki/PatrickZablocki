@@ -6,29 +6,12 @@
 Hey there, I'm Patrick!
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
 </h1>
-   </div>
+</div>
 
-# Hi, I'm Patrick  🤙🏻
+### About Me :
 
-- 🌱 I'm a Fullstack Devoloper
+Passionate Fontend Devoloper Developer | Web Design Enthusiast
 
-```JavaScript
-const aboutMe = {
-    email: ["patrickzablocki@gmx.de"],
-    personal_info: ["Patrick", "Zablocki", "27", "Male"],
-    portfolio: ["https://portfolio-patrickzablocki.vercel.app"],
-    location: ["Germany", "North Rhine-Westphalia", "Duesseldorf"],
-    social_media: {
-        LinkedIn: "https://www.linkedin.com/in/patrick-zablocki-993738285/"
-    }
-};
-
-console.log(aboutMe);
-
-```
-- 💬 Feel Free to contact me
-
-- 🤔 I Work with: <br><br>
 
 <strong>Frontend:</strong><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
