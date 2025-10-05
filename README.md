@@ -14,61 +14,28 @@ Passionate Backend Developer
 
 ### My stack and tools :
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; justify-content: center;">
 <table align="center">
   <tr>
-     <td align="center"  width="88">
-         <img src="./Images/01-html5.svg" alt="HTML5" width="44" height="44"/>
-      <br>HTML5
+    <td align="center" width="88">
+      <img src="./Images/03-javascript.svg" alt="JavaScript" width="44" height="44"/><br>JavaScript
     </td>
     <td align="center" width="88">
-        <img src="./Images/02-css3.svg" alt="CSS3" width="44" height="44"/>
-      <br>CSS3
-    </td>
-<td align="center" width="88">
-         <img src="./Images/03-javascript.svg" alt="JS" width="44" height="44"/>
-      <br>JavaScript
+      <img src="./Images/08-nodejs.svg" alt="Node.js" width="44" height="44"/><br>Node.js
     </td>
     <td align="center" width="88">
-        <img src="./Images/06-react.svg" alt="React" width="44" height="44"/>
-      <br>React.js
+      <img src="./Images/mysql.svg" alt="MySQL" width="44" height="44"/><br>MySQL
     </td>
     <td align="center" width="88">
-        <img src="./Images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
-      <br>Next.js
+      <img src="./Images/16-git.svg" alt="Git" width="44" height="44"/><br>Git
     </td>
     <td align="center" width="88">
-      <img src="./Images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
-      <br>Node.js
+      <img src="./Images/17-vscode.svg" alt="VSCode" width="44" height="44"/><br>VSCode
     </td>
   </tr>
-    <td align="center" width="88">
-        <img src="./Images/10-sass.svg" alt="Sass" width="44" height="44"/>
-      <br>Sass
-    </td>
-    <td align="center"  width="88">
-        <img src="./Images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
-      <br>Tailwind
-    </td>
-    <td align="center" width="88">
-        <img src="./Images/Bootstrap_logo.svg.png" alt="Bootstrap" width="44" height="44"/>
-      <br>Bootstrap
-    </td>
-      </td>
-      <td align="center" width="88">
-        <img src="./Images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
-      <br>MongoDB
-     </td>
-     <td align="center" width="88">
-        <img src="./Images/16-git.svg" alt="Git" width="44" height="44"/>
-      <br>Git
-    </td>
-  <td align="center" width="88">
-        <img src="./Images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
-      <br>VSCode
-     </td>
 </table>
 </div>
+
 
 
 
