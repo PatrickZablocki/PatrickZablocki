@@ -10,8 +10,7 @@ Hey there, I'm Patrick!
 
 ### About Me :
 
-Passionate Fontend Devoloper Developer | Web Design Enthusiast
-
+Passionate Backend Developer
 
 ### My stack and tools :
 
