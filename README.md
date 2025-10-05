@@ -24,13 +24,13 @@ Passionate Backend Developer
       <img src="./Images/08-nodejs.svg" alt="Node.js" width="44" height="44"/><br>Node.js
     </td>
     <td align="center" width="88">
-      <img src="./Images/express.png" alt="Express.js" width="44" height="44"/><br>Express.js
-    </td>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="44" height="44"/><br>Express.js
+</td>
+<td align="center" width="88">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="44" height="44"/><br>MySQL
+</td>
     <td align="center" width="88">
       <img src="./Images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/><br>MongoDB
-    </td>
-    <td align="center" width="88">
-      <img src="./Images/mysql.png" alt="MySQL" width="44" height="44"/><br>MySQL
     </td>
     <td align="center" width="88">
       <img src="./Images/16-git.svg" alt="Git" width="44" height="44"/><br>Git
