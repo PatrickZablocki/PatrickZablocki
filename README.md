@@ -12,35 +12,42 @@ Hey there, I'm Patrick!
 
 Passionate Backend Developer
 
-### My stack and tools :
+### My Stack & Tools
 
 <div style="display: flex; justify-content: center;">
 <table align="center">
   <tr>
     <td align="center" width="88">
-      <img src="./Images/03-javascript.svg" alt="JavaScript" width="44" height="44"/><br>JavaScript
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="44" height="44"/><br>JavaScript
     </td>
     <td align="center" width="88">
-      <img src="./Images/08-nodejs.svg" alt="Node.js" width="44" height="44"/><br>Node.js
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="44" height="44"/><br>Node.js
     </td>
     <td align="center" width="88">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="44" height="44"/><br>Express.js
-</td>
-<td align="center" width="88">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="44" height="44"/><br>MySQL
-</td>
-    <td align="center" width="88">
-      <img src="./Images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/><br>MongoDB
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="44" height="44"/><br>Express.js
     </td>
     <td align="center" width="88">
-      <img src="./Images/16-git.svg" alt="Git" width="44" height="44"/><br>Git
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="44" height="44"/><br>MySQL
     </td>
     <td align="center" width="88">
-      <img src="./Images/17-vscode.svg" alt="VSCode" width="44" height="44"/><br>VSCode
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="44" height="44"/><br>MongoDB
+    </td>
+    <td align="center" width="88">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="44" height="44"/><br>TypeScript
+    </td>
+    <td align="center" width="88">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="44" height="44"/><br>Docker
+    </td>
+    <td align="center" width="88">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="44" height="44"/><br>Git
+    </td>
+    <td align="center" width="88">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="VSCode" width="44" height="44"/><br>VSCode
     </td>
   </tr>
 </table>
 </div>
+
 
 
 
