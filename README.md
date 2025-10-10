@@ -36,13 +36,7 @@ Passionate Backend Developer
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="44" height="44"/><br>TypeScript
     </td>
     <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="44" height="44"/><br>Docker
-    </td>
-    <td align="center" width="88">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="44" height="44"/><br>Git
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="VSCode" width="44" height="44"/><br>VSCode
     </td>
   </tr>
 </table>
