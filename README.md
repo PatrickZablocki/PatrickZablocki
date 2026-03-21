@@ -3,14 +3,16 @@
 <img src="./Assets/github.gif" width="100"/>
 
 <h1>
-Hey there, I'm Patrick!
+Hey, ich bin Patrick
 <img src="./Assets/giphy.gif" width="30px" alt="GIF">
 </h1>
 </div>
 
 ### About Me :
 
-Passionate Backend Developer
+IT-Servicedesk Specialist mit Fokus auf Problemlösung, Automatisierung und praktische Tools.
+
+Ich entwickle mich aktuell in Richtung Scripting, Automatisierung und Softwareentwicklung weiter und setze dabei auf praxisnahe Projekte statt reiner Theorie.
 
 ### My Stack & Tools
 
@@ -18,7 +20,7 @@ Passionate Backend Developer
 <table align="center">
   <tr>
     <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="44" height="44"/><br>JavaScript
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Pyhton" width="44" height="44"/><br>Python
     </td>
     <td align="center" width="88">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="44" height="44"/><br>Node.js
