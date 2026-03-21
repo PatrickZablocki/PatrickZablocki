@@ -14,6 +14,12 @@ IT-Servicedesk Specialist mit Fokus auf Problemlösung, Automatisierung und prak
 
 Ich entwickle mich aktuell in Richtung Scripting, Automatisierung und Softwareentwicklung weiter und setze dabei auf praxisnahe Projekte statt reiner Theorie.
 
+### Woran ich aktuell arbeite :
+Python lernen durch echte Projekte
+Automatisierung (CLI-Tools & kleine Anwendungen)
+Lösungen für reale Probleme entwickeln
+
+
 ### My Stack & Tools
 
 <div style="display: flex; justify-content: center;">
@@ -22,20 +28,15 @@ Ich entwickle mich aktuell in Richtung Scripting, Automatisierung und Softwareen
     <td align="center" width="88">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Pyhton" width="44" height="44"/><br>Python
     </td>
+     <td align="center" width="88">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/powershell/powershell.png" alt="Powershell" width="44" height="44"/><br>Powershell
+    </td>
     <td align="center" width="88">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="44" height="44"/><br>Node.js
     </td>
     <td align="center" width="88">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="44" height="44"/><br>Express.js
     </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="44" height="44"/><br>MySQL
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="44" height="44"/><br>MongoDB
-    </td>
-    <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="44" height="44"/><br>TypeScript
     </td>
     <td align="center" width="88">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="44" height="44"/><br>Git
@@ -43,14 +44,6 @@ Ich entwickle mich aktuell in Richtung Scripting, Automatisierung und Softwareen
   </tr>
 </table>
 </div>
-
-
-
-
-
-
-
-
 
 ### GitHub Stats:
 <table align="center">
@@ -72,7 +65,6 @@ Ich entwickle mich aktuell in Richtung Scripting, Automatisierung und Softwareen
 
 <div align=center> 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Fact;+I+love+fantasy+books;+Learning+new+things;+Coding+is+my+passion!" alt="Fun Fact" />
-
-
 </div>
+
 
