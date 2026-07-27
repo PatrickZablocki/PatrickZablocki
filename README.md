@@ -33,9 +33,6 @@ Ich beschäftige mich aktuell mit Netzwerksicherheit, Systemhärtung und praxisn
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="44" height="44"/><br>MySQL
     </td>
     <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/powershell/powershell.png" width="44" height="44"/><br>PowerShell
-    </td>
-    <td align="center" width="88">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="44" height="44"/><br>Linux
     </td>
     <td align="center" width="88">
