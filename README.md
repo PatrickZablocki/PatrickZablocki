@@ -55,15 +55,14 @@ Ich beschäftige mich aktuell mit Netzwerksicherheit, Systemhärtung und praxisn
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PatrickZablocki&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=002b36"/>
+      <img src="https://github-readme-stats-eight-omega.vercel.app/api?username=PatrickZablocki&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=002b36"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickZablocki&layout=compact&theme=radical&hide_border=true&bg_color=002b36"/>
+      <img src="https://github-readme-stats-eight-omega.vercel.app/api/top-langs/?username=PatrickZablocki&layout=compact&theme=radical&hide_border=true&bg_color=002b36"/>
     </td>
   </tr>
 </table>
 </div>
-
 ---
 
 ### ⚡ Fun Fact
