@@ -1,6 +1,5 @@
 <div id="header" align="center">
 <img src="./Assets/github.gif" width="100"/>
-
 <h1>
 Hey, ich bin Patrick
 <img src="./Assets/giphy.gif" width="30px" alt="GIF">
@@ -9,24 +8,21 @@ Hey, ich bin Patrick
 
 ---
 
-### 🧠 Über mich
-
-IT-Servicedesk Specialist mit Fokus auf Problemlösung, Automatisierung und praktische Tools.
-
-Ich entwickle mich aktuell in Richtung Scripting, Automatisierung und Softwareentwicklung weiter und setze dabei bewusst auf praxisnahe Projekte statt reiner Theorie.
+### 🛡️ Über mich
+IT-Servicedesk Specialist auf dem Weg in die Cybersecurity.
+Ich beschäftige mich aktuell mit Netzwerksicherheit, Systemhärtung und praxisnahen Security-Tools – mit dem Ziel, mein IT-Support-Hintergrundwissen in einen echten Cybersecurity-Skillset zu verwandeln.
 
 ---
 
 ### 🚀 Woran ich aktuell arbeite
-
-- 🐍 Python lernen durch echte Projekte  
-- ⚙️ Automatisierung (CLI-Tools & kleine Anwendungen)  
-- 💡 Lösungen für reale Probleme entwickeln  
+- 🔐 Cybersecurity Grundlagen (Netzwerke, Systeme, Angriffsvektoren)
+- 🐍 Python für Security-Scripting & Automatisierung
+- 🗄️ MySQL – Datenbankgrundlagen im Aufbau
+- 🧪 Hands-on Labs & CTF-Style Challenges
 
 ---
 
 ### 🛠️ Tech & Tools
-
 <div align="center">
 <table>
   <tr>
@@ -34,13 +30,16 @@ Ich entwickle mich aktuell in Richtung Scripting, Automatisierung und Softwareen
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="44" height="44"/><br>Python
     </td>
     <td align="center" width="88">
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="44" height="44"/><br>MySQL
+    </td>
+    <td align="center" width="88">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/powershell/powershell.png" width="44" height="44"/><br>PowerShell
     </td>
     <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="44" height="44"/><br>Node.js
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="44" height="44"/><br>Linux
     </td>
     <td align="center" width="88">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="44" height="44"/><br>Express.js
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/wireshark/wireshark.png" width="44" height="44"/><br>Wireshark
     </td>
     <td align="center" width="88">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="44" height="44"/><br>Git
@@ -52,7 +51,6 @@ Ich entwickle mich aktuell in Richtung Scripting, Automatisierung und Softwareen
 ---
 
 ### 📈 GitHub Stats
-
 <div align="center">
 <table>
   <tr>
@@ -69,9 +67,7 @@ Ich entwickle mich aktuell in Richtung Scripting, Automatisierung und Softwareen
 ---
 
 ### ⚡ Fun Fact
-
 <div align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=800&height=50&lines=Ich+liebe+Fantasy+Bücher;+Ich+baue+lieber+Tools+als+Designs;+Ständig+am+Lernen!" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=800&height=50&lines=Ich+liebe+Fantasy+Bücher;+Vom+Support-Ticket+zum+Security-Alert;+Ständig+am+Lernen!" />
 </div>
-
 
