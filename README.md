@@ -39,7 +39,7 @@ Ich beschäftige mich aktuell mit Netzwerksicherheit, Systemhärtung und praxisn
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="44" height="44"/><br>Linux
     </td>
     <td align="center" width="88">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="44" height="44"/><br>Wireshark
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="44" height="44"/><br>Wireshark
 </td>
     <td align="center" width="88">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="44" height="44"/><br>Git
